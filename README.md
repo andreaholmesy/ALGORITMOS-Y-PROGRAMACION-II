@@ -1,0 +1,2 @@
+# ALGORITMOS-Y-PROGRAMACION-II
+Asignacion corte 2
