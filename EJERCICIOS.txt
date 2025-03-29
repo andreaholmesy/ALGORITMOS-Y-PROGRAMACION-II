@@ -1,0 +1,35 @@
+1.- Crea un programa que:
+
+Guarde un array de 3 estructuras Alumno (con nombre y nota) en un archivo binario.
+
+Lea el archivo y muestre los datos en pantalla.
+
+
+2.- Crea un programa que:
+
+Guarde un número entero (int) en un archivo binario numero.bin.
+
+Luego lo lea y muestre en pantalla.
+
+
+3.- Escribe un programa que:
+
+Copie el contenido de un archivo origen.txt a otro llamado copia.txt.
+
+Verifique si el archivo origen existe antes de copiar.
+
+
+4.- Crea un programa que:
+
+Defina una estructura Alumno con nombre, edad y promedio.
+
+Guarde un array de 3 alumnos en un archivo binario alumnos.dat.
+
+Luego lo lea y muestre los datos.
+
+
+5.- Modifica el ejercicio anterior para que:
+
+Permita buscar un alumno por nombre en alumnos.dat.
+
+Muestre sus datos si existe, o un mensaje de error si no.
